@@ -1,4 +1,4 @@
-# 📗 Keras_TF_Deep_Learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+# 📗Keras_TF_Deep_Learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 ### 👉 모두의 딥러닝 (2판, 조태호) 
 
 ![서적 이미지](https://user-images.githubusercontent.com/87643414/226151220-e9c9b37a-7501-4082-862a-ac8c6e356de4.png)
